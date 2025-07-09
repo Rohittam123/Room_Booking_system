@@ -3,8 +3,9 @@
 A simple Java console-based hotel room booking system using JDBC and PostgreSQL.
 
 # Project Structure 
-      Here are the structure of this maven project
-      ![image](https://github.com/user-attachments/assets/ef678dd7-ab0c-4085-b1da-f4f601ad1760)
+Here my Maven Project Structure
+    ![image](https://github.com/user-attachments/assets/caf7009e-ad57-4761-bbde-4c64d54afb73)
+
 
 
 ## 📦 Features

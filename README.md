@@ -1,10 +1,20 @@
 # Hotel Room Booking System
 
-A simple Java console-based hotel room booking system using JDBC and PostgreSQL.
+This is a Java console-based Hotel Room Booking System designed to manage room booking operations such as displaying available rooms, booking rooms, and saving booking details. The project follows Object-Oriented Programming principles, uses JDBC for database connectivity, and integrates with a PostgreSQL database for persistent data storage. The project also implements multi-threading for displaying available rooms and file handling
 
 # Project Structure 
 Here my Maven Project Structure
-    ![image](https://github.com/user-attachments/assets/caf7009e-ad57-4761-bbde-4c64d54afb73)
+   Room_Booking_system/
+├── pom.xml
+└── src/
+    └── main/
+        └── java/
+            └── com/
+                └── myRoom/
+                    ├── DBConnection.java
+                    ├── Room.java
+                    └── HotelBookingSystem.java
+
 
 
 

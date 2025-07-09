@@ -4,18 +4,7 @@ This is a Java console-based Hotel Room Booking System designed to manage room b
 
 # Project Structure 
 Here my Maven Project Structure
-   Room_Booking_system/
-├── pom.xml
-└── src/
-    └── main/
-        └── java/
-            └── com/
-                └── myRoom/
-                    ├── DBConnection.java
-                    ├── Room.java
-                    └── HotelBookingSystem.java
-
-
+         ![image](https://github.com/user-attachments/assets/7914bc40-840c-44f9-93a1-c4b0f5994e66)
 
 
 ## 📦 Features

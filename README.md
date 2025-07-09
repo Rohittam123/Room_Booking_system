@@ -46,9 +46,6 @@ The project uses the following dependencies:
 # Contact
 For any questions or feedback, feel free to reach out:
 
-Your Name : Tamkhane Rohit
-Email: rohittamkhane766@gmail.com
+Your Name : Tamkhane Rohit 
+Email: rohittamkhane766@gmail.com 
 GitHub: Rohittam123
-
-
-

@@ -1,6 +1,7 @@
 # Team Members
    1. Tamkhane Rohit
    2. Warkhade Amol
+   3. Ayewar Krishna
 
 # Hotel Room Booking System
 
@@ -46,6 +47,10 @@ The project uses the following dependencies:
  2. Exec Maven Plugin: execute the main() method of this specific Java class.
 
 ![image](https://github.com/user-attachments/assets/4aff8c83-6928-475d-82dc-153455f479da)
+
+# Output of Application 
+    <img width="1366" height="720" alt="JDBC" src="https://github.com/user-attachments/assets/90ff23b5-2ec8-48f9-be7b-469d6f90434f" />
+
 
 # Contact
 For any questions or feedback, feel free to reach out:

@@ -49,8 +49,8 @@ The project uses the following dependencies:
 ![image](https://github.com/user-attachments/assets/4aff8c83-6928-475d-82dc-153455f479da)
 
 # Output of Application 
-    <img width="1366" height="720" alt="JDBC" src="https://github.com/user-attachments/assets/90ff23b5-2ec8-48f9-be7b-469d6f90434f" />
-
+    
+<img width="1366" height="720" alt="JDBC" src="https://github.com/user-attachments/assets/b012cd97-9253-4a77-bb15-e17d6eb0f11e" />
 
 # Contact
 For any questions or feedback, feel free to reach out:

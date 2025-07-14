@@ -56,18 +56,13 @@ No native Hibernate queries — pure JPA `EntityManager` based implementation.
 
 -org.postgresql:postgresql
 
-      <img width="647" height="290" alt="Screenshot 2025-07-15 011731" src="https://github.com/user-attachments/assets/823b210b-870a-4f6d-b43f-9249968270ca" />
+  <img width="647" height="290" alt="Screenshot 2025-07-15 011731" src="https://github.com/user-attachments/assets/823b210b-870a-4f6d-b43f-9249968270ca" />
 
 
 # Output Of The Application
-      <img width="1366" height="720" alt="Screenshot 2025-07-15 004614" src="https://github.com/user-attachments/assets/43bf4362-adf3-4bc9-9a69-1670af49e22d" />
+   <img width="1366" height="720" alt="Screenshot 2025-07-15 004614" src="https://github.com/user-attachments/assets/43bf4362-adf3-4bc9-9a69-1670af49e22d" />
 
 
 # Contact Details 
         Name: Rohit Tamkhane
         E-mail: rohittamkhane76@gmail.com
-        Linkdin: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tera-username/](https://www.linkedin.com/in/rohit-tamkhane-a85455241?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
-
-
-
-

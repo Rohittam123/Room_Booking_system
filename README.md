@@ -6,27 +6,8 @@ No native Hibernate queries — pure JPA `EntityManager` based implementation.
 ---
 
 ## 📂 Project Structure
-Jpa_project/
- ├── src/main/java/
- │    └── com/Hibernate_jpa/
- │          ├── entity/
- │          │      ├── Country.java
- │          │      └── Region.java
- │          │
- │          ├── DAO/
- │          │      ├── CountryDAO.java
- │          │      └── RegionDAO.java
- │          │
- │          ├── Utility/
- │          │      └── JPAUtil.java
- │          │
- │          └── App.java
- │
- ├── src/main/resources/
- │      └── META-INF/
- │             └── persistence.xml
- │
- └── pom.xml
+   <img width="532" height="377" alt="image" src="https://github.com/user-attachments/assets/59020365-05da-484b-b06c-303e119c158a" />
+
 
 
 ---

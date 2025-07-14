@@ -67,15 +67,15 @@ Jpa_project/
 - Database `my_db` created in PostgreSQL on port `5433`
 
 # Dependencies
-      Managed via Maven inside pom.xml:
+  Managed via Maven inside pom.xml:
 
 -org.hibernate:hibernate-core
 
 -jakarta.persistence:jakarta.persistence-api
 
 -org.postgresql:postgresql
-      
-      <img width="647" height="290" alt="image" src="https://github.com/user-attachments/assets/f869bf33-68e5-443d-b409-90907457dc6e" />
+      <img width="647" height="290" alt="Screenshot 2025-07-15 011731" src="https://github.com/user-attachments/assets/823b210b-870a-4f6d-b43f-9249968270ca" />
+
 
 # Output Of The Application
        <img width="1366" height="720" alt="Screenshot 2025-07-15 004614" src="https://github.com/user-attachments/assets/c0c6924f-45b7-463e-9418-c0a87cef31ad" />

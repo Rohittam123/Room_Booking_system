@@ -55,11 +55,13 @@ No native Hibernate queries — pure JPA `EntityManager` based implementation.
 -jakarta.persistence:jakarta.persistence-api
 
 -org.postgresql:postgresql
+
       <img width="647" height="290" alt="Screenshot 2025-07-15 011731" src="https://github.com/user-attachments/assets/823b210b-870a-4f6d-b43f-9249968270ca" />
 
 
 # Output Of The Application
-       <img width="1366" height="720" alt="Screenshot 2025-07-15 004614" src="https://github.com/user-attachments/assets/c0c6924f-45b7-463e-9418-c0a87cef31ad" />
+      <img width="1366" height="720" alt="Screenshot 2025-07-15 004614" src="https://github.com/user-attachments/assets/43bf4362-adf3-4bc9-9a69-1670af49e22d" />
+
 
 # Contact Details 
         Name: Rohit Tamkhane

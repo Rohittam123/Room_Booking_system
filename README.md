@@ -1,7 +1,7 @@
 # Team Members
-    Tamkhane Rohit
-    Warkhade Amol
-    Ayewar Krishna
+1. Tamkhane Rohit
+2. Warkhade Amol
+3. Ayewar Krishna
 
 # JPA PostgreSQL CRUD Project
 

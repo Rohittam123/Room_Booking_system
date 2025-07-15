@@ -72,3 +72,4 @@ No native Hibernate queries — pure JPA `EntityManager` based implementation.
 # Contact Details 
 - Name: Rohit Tamkhane
 - E-mail: rohittamkhane76@gmail.com
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/btwrohit__?igsh=eDY0bG82NzFkejJt)

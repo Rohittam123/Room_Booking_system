@@ -1,3 +1,8 @@
+# Team Members
+    Tamkhane Rohit
+    Warkhade Amol
+    Ayewar Krishna
+
 # JPA PostgreSQL CRUD Project
 
 A complete Java Maven project to perform **CRUD operations** on **Countries** and **Regions** tables using **JPA (Jakarta Persistence API)** with **PostgreSQL** database.  

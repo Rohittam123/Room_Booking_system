@@ -1,8 +1,7 @@
 # Team Members
    1. Tamkhane Rohit
    2. Warkhade Amol
-   3. Ayewar Krishna
-   4. Bagate Tanvi
+   3. Ayewar Krishn
 
 # Hotel Room Booking System
 
